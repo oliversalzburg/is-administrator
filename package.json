@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/oliversalzburg/is-administrator/issues"
   },
-  "homepage": "https://github.com/oliversalzburg/is-administrator#readme"
+  "homepage": "https://github.com/oliversalzburg/is-administrator#readme",
+  "dependencies": {
+    "bluebird": "^2.9.25"
+  }
 }
