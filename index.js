@@ -1,3 +1,5 @@
+"use strict";
+
 var Promise = require( "bluebird" );
 
 var exec = Promise.promisify( require( "child_process" ).exec );
