@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "os": [
+    "win32"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/oliversalzburg/is-administrator.git"
